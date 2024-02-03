@@ -1,0 +1,42 @@
+{
+  "name": "Blastronauts #7",
+  "description": "Just a Blastronaut exploring the Blast universe",
+  "file_url": "ipfs://bafybeicycjixjzszvkjca2wqfwzsc5kkexuvobe75noyycwmg2uzp42cmm/7.png",
+  "custom_fields": {
+    "dna": "7d9104c794ac62bf425965aad3a9aa9c02935f98",
+    "edition": 7,
+    "date": 1706761613888,
+    "compiler": "HashLips Art Engine"
+  },
+  "external_url": "https://raycook.io",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Planets "
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Dark Camo "
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan "
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Beard "
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy "
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big Right "
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Blank "
+    }
+  ]
+}

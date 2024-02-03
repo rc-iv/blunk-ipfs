@@ -1,0 +1,42 @@
+{
+  "name": "Blastronauts #2",
+  "description": "Just a Blastronaut exploring the Blast universe",
+  "file_url": "ipfs://bafybeicycjixjzszvkjca2wqfwzsc5kkexuvobe75noyycwmg2uzp42cmm/2.png",
+  "custom_fields": {
+    "dna": "4f4f81339b03aa284bffbfa9d38def23945ae7ff",
+    "edition": 2,
+    "date": 1706761613576,
+    "compiler": "HashLips Art Engine"
+  },
+  "external_url": "https://raycook.io",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Warp "
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Dark Camo "
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan "
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Base "
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headband "
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D "
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Rainbow "
+    }
+  ]
+}

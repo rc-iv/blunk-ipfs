@@ -1,0 +1,42 @@
+{
+  "name": "Blastronauts #9",
+  "description": "Just a Blastronaut exploring the Blast universe",
+  "file_url": "ipfs://bafybeicycjixjzszvkjca2wqfwzsc5kkexuvobe75noyycwmg2uzp42cmm/9.png",
+  "custom_fields": {
+    "dna": "29c6016a65aa22e5a9233a8dcd7be285b1493814",
+    "edition": 9,
+    "date": 1706761613966,
+    "compiler": "HashLips Art Engine"
+  },
+  "external_url": "https://raycook.io",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Spaceship "
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Light Camo "
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tawny "
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Base "
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bandana "
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nouns "
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cig "
+    }
+  ]
+}

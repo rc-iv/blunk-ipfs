@@ -1,0 +1,42 @@
+{
+  "name": "Blastronauts #1",
+  "description": "Just a Blastronaut exploring the Blast universe",
+  "file_url": "ipfs://bafybeicycjixjzszvkjca2wqfwzsc5kkexuvobe75noyycwmg2uzp42cmm/1.png",
+  "custom_fields": {
+    "dna": "9d1983eb98bb2c1f4c913bb8b42392f33952c0ec",
+    "edition": 1,
+    "date": 1706761613498,
+    "compiler": "HashLips Art Engine"
+  },
+  "external_url": "https://raycook.io",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moon "
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Light Yellow 100 "
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan "
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Base "
+    },
+    {
+      "trait_type": "Head",
+      "value": "Clown Green "
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses "
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Chain "
+    }
+  ]
+}
