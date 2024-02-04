@@ -70,7 +70,7 @@ async function prepareMataDataFiles() {
 
 async function formatAndUpdateMetadata(targetCID) {
   const directoryPath = "./files/metadata";
-  const oldCID = "NewUriToReplace";
+  const oldCID = process.env.CID_TO_REPLACE;
 
   try {
     // Read the directory to get file names

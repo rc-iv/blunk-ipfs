@@ -26,6 +26,7 @@ Create a .env file in the root of your project directory with the following cont
 ```plaintext 
 EMAIL=your_email@example.com
 SPACE_DID=did:key:your_space_did
+CID_TO_REPLACE="placeholder data in your metadata json files" (usually under the 'file_url' key)
 ```
 
 This file will be automatically used by dotenv to set environment variables.
